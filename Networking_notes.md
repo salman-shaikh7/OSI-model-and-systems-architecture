@@ -87,4 +87,6 @@ UTP (Unshielded Twisted Pair) : pairs of insulated copper wires twisted together
 
 ![alt text](image-8.png)
 
+
+## Summary Image of Networking Module
 ![alt text](image-9.png)
